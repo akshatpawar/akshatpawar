@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[My Website](https://akshatpawar.github.io/)**
+- 🔭 Go check my **[Portfolio](https://akshatpawar.pages.dev/)**
 
 - 🌱 I’m currently learning **Web Development.**
 

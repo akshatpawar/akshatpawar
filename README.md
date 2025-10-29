@@ -10,7 +10,7 @@ I have built projects ranging from AI/ML experiments like an object detection sy
 These experiences reflect my adaptability and passion for creating innovative solutions that combine software engineering and modern technologies.
 
 * 🌍  I'm based in New Delhi, India
-* 🖥️  See my portfolio at [akshatpawar.pages.dev](http://https://akshatpawar.pages.dev/)
+* 🖥️  See my portfolio at [akshatpawar.pages.dev](https://akshatpawar.pages.dev/)
 * ✉️  You can contact me at [akshatpawar1@gmail.com](mailto:akshatpawar1@gmail.com)
 
 ---
